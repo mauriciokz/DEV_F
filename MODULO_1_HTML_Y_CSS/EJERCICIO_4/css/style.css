@@ -1,0 +1,63 @@
+body{
+    background-color: #bbbbbb;
+}
+.chico_azul{
+    width: 100%;
+    height: 100px;
+    background-color: #a8e3fa;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.grande_azul{
+    background-color: #a8e3fa;
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container{
+    margin-left:0px;
+	border: 0px solid #bbbbbb;
+	width: 100%;
+	height: 25%;
+	background-color:#bbbbbb;
+    
+    
+    
+}
+
+.mediano_azul{
+    background-color: #a8e3fa;
+    width: 49%;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: -webkit-inline-box;
+    overflow: auto;
+    float: block;
+    
+    
+    
+}
+.margin-derecho{
+    margin-right: 12px;
+    border-right: 10px solid #bbbbbb;
+    float: block;
+
+    
+    
+}
+
+.margin-abajo{
+    margin-bottom: 10px;
+    overflow-y: auto;
+    
+    
+}
